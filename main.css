@@ -1,0 +1,48 @@
+* {margin:0;
+   padding:0;}
+ .format{width:42px;
+        height:42px;
+}
+#okviric{
+	border:5px solid gold;
+	width:410px;
+	height:732px;
+	background:#ffcce7;
+}
+   #wrap{
+	padding:10px;
+	width:700px;
+	height:300px;
+	margin:100px auto;
+	border:1px solid gray;
+	border-radius:10px;	
+	}
+#current{
+	width:90%;
+	height:60%;
+	margin:15px;
+	border:3px solid black;
+	border-radius:10px;
+	}
+	
+.thumb{
+        
+		width:55px;
+		height:55px;
+		margin:4px;
+		border:1px solid red;
+		border-radius:10px;
+	    /*float:left;*/
+		}
+.clr{
+	clear:both;
+	}
+.prethodna{width:100px;
+	   border:2px dotted blue;
+	   margin-top:50px;
+	   cursor:pointer;
+	
+}
+
+
+	 
